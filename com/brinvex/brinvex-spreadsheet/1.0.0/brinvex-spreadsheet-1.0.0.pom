@@ -62,7 +62,7 @@
         <junit-jupiter.version>5.11.3</junit-jupiter.version>
 
         <github-site-maven-plugin.version>0.11</github-site-maven-plugin.version>
-        <github.global.server>github</github.global.server>
+        <github.global.server>github-pubrepo-brinvex</github.global.server>
     </properties>
 
     <dependencyManagement>
@@ -167,9 +167,9 @@
         <plugins>
 
             <!--
-                      https://www.baeldung.com/maven-repo-github
-                      https://stackoverflow.com/questions/14013644/hosting-a-maven-repository-on-github
-                      -->
+            https://www.baeldung.com/maven-repo-github
+            https://stackoverflow.com/questions/14013644/hosting-a-maven-repository-on-github
+            -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-source-plugin</artifactId>
@@ -198,7 +198,7 @@
                     <branch>refs/heads/main</branch>
                     <includes><include>**/*</include></includes>
                     <!-- GitHub repo name -->
-                    <repositoryName>brinvex-repo</repositoryName>
+                    <repositoryName>brinvex-pubrepo</repositoryName>
                     <!-- GitHub username  -->
                     <repositoryOwner>brinvex</repositoryOwner>
                     <merge>true</merge>
