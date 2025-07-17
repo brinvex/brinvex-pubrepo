@@ -3,10 +3,10 @@
   <groupId>com.brinvex</groupId>
   <artifactId>brinvex-tnet</artifactId>
   <versioning>
-    <release>1.2.1</release>
+    <release>1.2.2</release>
     <versions>
-      <version>1.2.1</version>
+      <version>1.2.2</version>
     </versions>
-    <lastUpdated>20250714112616</lastUpdated>
+    <lastUpdated>20250717204107</lastUpdated>
   </versioning>
 </metadata>
