@@ -3,10 +3,10 @@
   <groupId>com.brinvex</groupId>
   <artifactId>brinvex-java</artifactId>
   <versioning>
-    <release>1.40.1</release>
+    <release>1.40.2</release>
     <versions>
-      <version>1.40.1</version>
+      <version>1.40.2</version>
     </versions>
-    <lastUpdated>20251011200319</lastUpdated>
+    <lastUpdated>20251011201353</lastUpdated>
   </versioning>
 </metadata>
